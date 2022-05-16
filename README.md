@@ -42,5 +42,6 @@ To check if the dataset is fake, the visualization of the data was created.
 #### Anaysis: The most common salary range for employees is 40000 which has the highest frequency of 140000. 
 
 ### 3 Create a bar chart of average salary by title.
-![salarybytitle](https://user-images.githubusercontent.com/100816322/168657536-e890faef-7e62-4370-bbba-90d7de3ce2e3.png)
+![salarybytitle](https://user-images.githubusercontent.com/100816322/168668521-7ce2fef6-b707-4dff-a564-57dad3cf8aea.png)
+
 #### Analysis: From the bar chart, the salaries for assitant engineer, engineer and senior engineer are similar, and the salaries for staff and senior staff are also similar. This is unreseasonable. Usually, different levels of titles mean different salaries. Therefore, this dataset seems to be fake.
